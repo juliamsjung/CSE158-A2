@@ -1,4 +1,4 @@
 # CSE158-A2
 
-![Image](Writeup/Writeup Preview.png)
+! [Preview Of Writeup](Writeup/Writeup Preview.png)
 
